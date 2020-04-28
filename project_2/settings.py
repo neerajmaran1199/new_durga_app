@@ -26,7 +26,7 @@ SECRET_KEY = 'jg369%#7(7w#ypc=o+*5e1@77svq0^^$jj3*=$^72hv_oz-t16'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [meenas.herokuapp.com]
 
 
 # Application definition
